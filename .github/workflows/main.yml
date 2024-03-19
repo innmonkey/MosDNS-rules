@@ -22,6 +22,7 @@ jobs:
         wget -O ./direct-list.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
         wget -O ./apple-cn.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt
         wget -O ./gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
+        wget -O ./anti-ad.txt https://anti-ad.net/domains.txt
         
     - name: 同步配置
       uses: peaceiris/actions-gh-pages@v3
