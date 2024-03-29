@@ -15,14 +15,14 @@ jobs:
 
     - name: 下载架构编译配置文件
       run: |
-        wget -O ./mosdns/rule/google-cn.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt
-        wget -O ./mosdns/rule/proxy-list.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
-        wget -O ./mosdns/rule/CN-ip-cidr.txt https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt
-        wget -O ./mosdns/rule/reject.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt
-        wget -O ./mosdns/drule/irect-list.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
-        wget -O ./mosdns/rule/apple-cn.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt
-        wget -O ./mosdns/rule/gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
-        wget -O ./mosdns/rule/anti-ad.txt https://anti-ad.net/domains.txt
+        wget -O ./mosdns-v5/mosdns/rule/google-cn.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/google-cn.txt
+        wget -O ./mosdns-v5/mosdns/rule/proxy-list.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt
+        wget -O ./mosdns-v5/mosdns/rule/CN-ip-cidr.txt https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt
+        wget -O ./mosdns-v5/mosdns/rule/reject.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt
+        wget -O ./mmosdns-v5/mosdns/rule/irect-list.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt
+        wget -O ./mosdns-v5/mosdns/rule/apple-cn.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/apple-cn.txt
+        wget -O ./mosdns-v5/mosdns/rule/gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
+        wget -O ./mosdns-v5/mosdns/rule/anti-ad.txt https://anti-ad.net/domains.txt
         
     - name: 同步配置
       uses: peaceiris/actions-gh-pages@v3
