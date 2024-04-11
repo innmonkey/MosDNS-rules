@@ -372,6 +372,7 @@
 5mb48g.com
 5mo.fun
 5q5zu9f1.me
+5w.ag
 6-ar.com
 60plusmilfs.com
 61jxbs42.xyz
@@ -6944,6 +6945,7 @@ episcopalchurch.org
 episodic.com
 epoch.cloud
 epoch.org.il
+epochbase.com
 epochbuy.com
 epochcar.com
 epochhk.com
@@ -11914,7 +11916,12 @@ jinx.com
 jitouch.com
 jitsi.org
 jiuse.ai
+jiuse.com.co
 jiuse.icu
+jiuse.io
+jiuse821.com
+jiuse822.com
+jiuse823.com
 jiyou520.com
 jiyu-kobo.co.jp
 jizzboom.com
@@ -12002,6 +12009,9 @@ jsdelivr.com
 jsdelivr.net
 jstage.jst.go.jp
 jstor.org
+jstv51.com
+jstv52.com
+jstv53.com
 jsz91.com
 jtube.space
 jtvnw.net
@@ -17330,8 +17340,8 @@ raw.githack.com
 rawgit.com
 rawgithub.com
 razer.com
+razerofficial.com
 razersupport.com
-razerzone.com
 razerzone.jp
 razyboard.com
 rb-crisis.com
@@ -17991,6 +18001,7 @@ sego8.cc
 sego8.co
 sego8.xyz
 sehuatang.net
+sehuatang.org
 seiroganmania.com
 seiron-sankei.com
 sejie.com
@@ -18430,6 +18441,7 @@ sidelinesnews.com
 sidelinessportseatery.com
 siege-amazon.com
 sierrafriendsoftibet.org
+sifangclub.com
 sigmoidoscopeexam.com
 sign.new
 signal.art
@@ -19329,6 +19341,7 @@ svscomics.asia
 svscomics.com
 svsfx.com
 svsgames.org
+swag-live.co
 swag.live
 swagbucks.com
 swapsmut.com
@@ -23481,6 +23494,7 @@ yyjlymb.xyz
 yzld188.top
 yzzk.com
 z-lib.org
+z-library.se
 z00.world
 z18r.co
 z18r.com
@@ -24288,15 +24302,9 @@ regexp:.+\.ap-mumbai\.tencentcos\.(cn|com(\.cn)?)$
 regexp:.+\.ap-seoul\.tencentcos\.(cn|com(\.cn)?)$
 regexp:.+\.ap-singapore\.tencentcos\.(cn|com(\.cn)?)$
 regexp:.+\.ap-tokyo\.tencentcos\.(cn|com(\.cn)?)$
-regexp:.+\.awsdns-cn-[0-9][0-9]\.biz$
-regexp:.+\.awsdns-cn-[0-9][0-9]\.com$
-regexp:.+\.awsdns-cn-[0-9][0-9]\.net$
-regexp:.+\.awsdns-cn-[0-9][0-9]\.top$
+regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
-regexp:.+\.awsdns-[0-9][0-9]\.com$
-regexp:.+\.awsdns-[0-9][0-9]\.co\.uk$
-regexp:.+\.awsdns-[0-9][0-9]\.net$
-regexp:.+\.awsdns-[0-9][0-9]\.org$
+regexp:.+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
 regexp:.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
 regexp:.+\.eu-frankfurt\.tencentcos\.(cn|com(\.cn)?)$
 regexp:.+\.eu-moscow\.tencentcos\.(cn|com(\.cn)?)$
