@@ -108,6 +108,7 @@ full:mesu.apple.com
 full:ml.cdn-apple.com
 full:music.apple.com
 full:ocsp-lb.apple.com.akadns.net
+full:ocsp2-lb.apple.com.akadns.net
 full:ocsp.apple.com
 full:ocsp2.apple.com
 full:oscdn.apple.com
