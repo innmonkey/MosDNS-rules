@@ -610,6 +610,7 @@ abellalist.com
 abema-tv.com
 abema.io
 abema.tv
+abematv.co.jp
 abgsp1.buzz
 abigass.com
 abitno.linpie.com
@@ -940,6 +941,7 @@ ahxxx.club
 ai-kan.net
 ai-wen.net
 ai.binwang.me
+ai.com
 ai7995.site
 ai91porn.cc
 aiaa.org
@@ -1586,7 +1588,6 @@ api.ai
 api.linksalpha.com
 api.nebula-emby.com
 api.news
-api.proxlet.com
 apiary.io
 apibay.org
 apidocs.linksalpha.com
@@ -3442,7 +3443,6 @@ blog.lester850.info
 blog.martinoei.com
 blog.pathtosharepoint.com
 blog.pentalogic.net
-blog.qooza.hk
 blog.ranxiang.com
 blog.sina.com.tw
 blog.sogoo.org
@@ -5228,6 +5228,7 @@ clinical-videos.com
 clinicalkey.com
 clip16.com
 clipcake.com
+clipdrop.co
 clipfish.de
 cliphayho.com
 cliphunter.com
@@ -6150,6 +6151,7 @@ didilist.com
 didimobility.co.jp
 dierectv.com
 difangwenge.org
+dify.ai
 digicert-cn.com
 digicert-validation.com
 digicert.com
@@ -10366,6 +10368,7 @@ herokussl.com
 herringnetwork.com
 hetzner.cloud
 hetzner.com
+hetzner.company
 hetzner.de
 heungkongdiscuss.com
 hex.pm
@@ -12205,6 +12208,7 @@ iutunes.com
 ivacy.com
 iverycd.com
 ivintageporn.com
+ivonblog.com
 ivpn.net
 iwank.tv
 iwantavnow.com
@@ -12241,6 +12245,7 @@ jamanetwork.com
 jambotube.com
 jamestown.org
 jamyangnorbu.com
+jan.ai
 jandyx.com
 janor6.net
 janwongphoto.com
@@ -12266,6 +12271,7 @@ japxtube.com
 jasa3dmax.com
 jasaautocad.com
 jasmin.com
+jasper.ai
 jav-angel.net
 jav-subtitles.com
 jav-vr.net
@@ -14296,6 +14302,7 @@ mindmeld.com
 mindrolling.org
 minecraft.net
 minecraft.wiki
+minecraftservices.com
 minecraftshop.com
 mingdemedia.org
 minghui-a.org
@@ -16940,7 +16947,6 @@ pemulihan.or.id
 pen.io
 penchinese.com
 penchinese.net
-pengyulong.com
 penisbot.com
 pensions-expert.com
 penthouse.com
@@ -16986,7 +16992,6 @@ phapluan.org
 phayul.com
 pheonix.money
 philborges.com
-philly.com
 phimsex47.club
 phimsexhentai.me
 phimsexkhongche.cyou
@@ -18124,14 +18129,12 @@ rakuya.com.tw
 ramcity.com.au
 randyblue.com
 rangwang.biz
-rangzen.com
 rangzen.net
 rangzen.org
 ranyunfei.com
 rapbull.net
 rapefilms.net
 rapetube.me
-rapidgator.net
 rapidmoviez.com
 rapidprototyping-cadcam.com
 rapidssl.com
@@ -24734,6 +24737,8 @@ full:adobe-dns-3.adobe.com
 full:adobe-dns-4.adobe.com
 full:adobe-dns.adobe.com
 full:adobeereg.com
+full:ai.google.dev
+full:alkalicore-pa.clients6.google.com
 full:alkalimakersuite-pa.clients6.google.com
 full:alt1-mtalk.google.com
 full:alt2-mtalk.google.com
